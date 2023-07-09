@@ -8,6 +8,7 @@ streamline the references of a case to previous cases<br>
 are similar to a prompt that is given or based on another case.<br>
 • Project Presentation: [Law Case Recommendation System.pdf](https://github.com/meetmandhanemnm/Lawyer-Case-Recommendation-System/files/11994560/Law.Case.Recommendation.System.pdf)<br>
 • Project Report: [Project Report.pdf](https://github.com/meetmandhanemnm/Lawyer-Case-Recommendation-System/files/11994591/Project_Report.pdf)<br>
+• Drive Link: https://drive.google.com/drive/folders/1GCF2iyDpI-pmT69vW8tuPT8I4rWeoMd2?usp=sharing<br>
 • Final Models folder in the repo has 2 files - Clustering.ipynb and Summarize.ipynb<br>
 • Summarize.ipynb is used for summarizing the law case documents<br>
 • Clustering.ipynb has functions for clustering the cases and recommending the most relevant cases
